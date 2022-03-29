@@ -1,0 +1,40 @@
+body {
+  text-align: center !important;
+  font-family: "Average Sans", sans-serif !important;
+}
+.container {
+  margin-top: 4.2%;
+}
+.inputvalue {
+  border: solid 2px #262626;
+  border-radius: 5px;
+  height: 40px;
+  letter-spacing: 1px !important;
+}
+.btn {
+  height: 40px !important;
+  letter-spacing: 2px !important;
+  font-weight: bold !important;
+}
+.content {
+  margin-top: 8%;
+  letter-spacing: 1.7px !important;
+  color: #262626;
+  display: none;
+}
+.fas {
+  color: #da253b;
+}
+.card {
+  background-color: #da253b !important;
+  height: 195px !important;
+  border-radius: 1px !important;
+}
+h1 {
+  letter-spacing: 1.3px;
+  color: #fbfbfb;
+  font-weight: bold;
+}
+h2 {
+  font-size: 60px !important;
+}
